@@ -6,5 +6,6 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
 
     char carta[20] = "Carta 1" // Aqui uma variável (carta 1), que pode armazenar letra ou símbolo ou nome utilizando até 20 caracteres.
     char estado[20] = "Estado" //Aqui uma variável de único caractere ('A'), podendo armazenar como uma letra ou símbolo. 
+    char codigo[5] = "A01" // Aqui uma variável (código) que pode armazenar letra ou símbolo utilizando até 5 caracteres.
 
 }
