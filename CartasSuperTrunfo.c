@@ -41,6 +41,8 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     printf("Estado: %c \n", 'B');
     printf("Código da Carta: %s \n", codigo2);
     printf("Nome da cidade: %s \n", nome2);
+    printf("População: %d \n", populacao2);
+
     
 
 }
