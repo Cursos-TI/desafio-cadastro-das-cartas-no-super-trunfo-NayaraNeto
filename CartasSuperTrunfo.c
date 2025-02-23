@@ -29,6 +29,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
 
     printf("\nPróxima Carta: \n"); //Separação para os dados da próxima carta 2, são utilizados os mesmo atributos de especificadores da carta 1.)
     char carta2[20] = "carta 2";// Foi colocado a nomeação da variável com representação no número 2 para que o sistema rode perfeitamente.
+    char estado2 = 'B';
     
 
 }
