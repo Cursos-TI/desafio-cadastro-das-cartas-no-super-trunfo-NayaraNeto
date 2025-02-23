@@ -8,6 +8,6 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     char estado[20] = "Estado" //Aqui uma variável de único caractere ('A'), podendo armazenar como uma letra ou símbolo. 
     char codigo[5] = "A01" // Aqui uma variável (código) que pode armazenar letra ou símbolo utilizando até 5 caracteres.
     char nome[20] = "São Paulo"; // Aqui uma variavel (nome) que pode armazenar um nome com até 20 caracteres.
-    int populacao = 11451245;// Aqui uma variável (população) que pode armazenar um número inteiro sem contar casa decimal.
+    int populacao[20] = 11451245;// Aqui uma variável (população) que pode armazenar um número inteiro sem contar casa decimal.
 
 }
