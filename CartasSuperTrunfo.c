@@ -32,6 +32,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     char estado2 = 'B';
     char codigo2[5] = "B02";
     char nome2[20] = "Curitiba";
+    int populacao2 = 173718;
     
 
 }
