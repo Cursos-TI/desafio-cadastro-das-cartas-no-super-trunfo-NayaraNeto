@@ -38,6 +38,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     int pontos2 = 30;
 
     printf("\nCarta 2 \n");
+    printf("Estado: %c \n", 'B');
     
 
 }
