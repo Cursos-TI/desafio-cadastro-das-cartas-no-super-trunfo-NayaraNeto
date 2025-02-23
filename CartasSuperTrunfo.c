@@ -10,5 +10,6 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     char nome[20] = "São Paulo"; // Aqui uma variavel (nome) que pode armazenar um nome com até 20 caracteres.
     int populacao[20] = 11451245;// Aqui uma variável (população) que pode armazenar um número inteiro sem contar casa decimal.
     float area = 1521.20; // Aqui uma variável (area) que pode armazenar números com casas decimais.
+    float pib = 828.98;// Aqui uma variável (pib) que pode armazenar números com casas decimais.
 
 }
