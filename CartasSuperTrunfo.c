@@ -16,4 +16,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
 
     // Abaixo utilizamos a função printf para imprimir as informações que queremos na tela do programa. Ele pega as informações contidas nas variaveis e mostra na tela.
 
+
+    printf("\nCarta 1 \n"); // Função que imprime a variável (Carta 1) pulando uma linha \n para ficar mais organizado.
+
 }
