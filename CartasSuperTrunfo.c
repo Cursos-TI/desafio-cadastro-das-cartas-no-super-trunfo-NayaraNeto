@@ -31,6 +31,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     char carta2[20] = "carta 2";// Foi colocado a nomeação da variável com representação no número 2 para que o sistema rode perfeitamente.
     char estado2 = 'B';
     char codigo2[5] = "B02";
+    char nome2[20] = "Curitiba";
     
 
 }
