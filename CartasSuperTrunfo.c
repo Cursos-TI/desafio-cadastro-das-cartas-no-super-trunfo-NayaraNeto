@@ -19,5 +19,6 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
 
     printf("\nCarta 1 \n"); // Função que imprime a variável (Carta 1) pulando uma linha \n para ficar mais organizado.
     printf("Estado: %c \n", 'A');//Imprime a variável estado (Estado: A) com indicador expecificador unico caractere, pulando uma linha \n).
+    printf("Código da Carta: %s \n", codigo);// Imprime a variável codigo (Código da carta) com especificador de strings, pulando uma linha \n).
 
 }
