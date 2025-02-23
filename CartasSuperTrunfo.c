@@ -13,4 +13,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     float pib = 828.98;// Aqui uma variável (pib) que pode armazenar números com casas decimais.
     int pontos = 36;//Aqui uma variável (pontos) que pode armazenar um número inteiro sem contar casa decimal.
 
+
+    // Abaixo utilizamos a função printf para imprimir as informações que queremos na tela do programa. Ele pega as informações contidas nas variaveis e mostra na tela.
+
 }
