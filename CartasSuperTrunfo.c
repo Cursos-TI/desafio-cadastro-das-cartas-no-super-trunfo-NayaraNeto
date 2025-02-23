@@ -22,5 +22,6 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     printf("Código da Carta: %s \n", codigo);// Imprime a variável codigo (Código da carta) com especificador de strings, pulando uma linha \n).
     printf("Nome da cidade: %s \n", nome);// Imprime a variável nome (Nome da cidade) com especificador de strings, pulando uma linha \n).
     printf("População: %d \n", populacao);//Imprime a variável populacao (População) com especificação de um número inteiro decimal, pulando uma linha \n).
+    printf("Área: %.2f km²\n", area);// Imprime a variável area (Área em Km²) que exibe a especificação do ponto flutuante com duas casas decimais e exibe em "km²".
 
 }
