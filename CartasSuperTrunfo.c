@@ -42,6 +42,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     printf("Código da Carta: %s \n", codigo2);
     printf("Nome da cidade: %s \n", nome2);
     printf("População: %d \n", populacao2);
+    printf("Área: %.2f km²\n", area2);
 
     
 
