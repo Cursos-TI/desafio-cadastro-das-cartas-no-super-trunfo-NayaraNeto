@@ -27,6 +27,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     printf("Área: %.2f km²\n", area);// Imprime a variável area (Área em Km²) que exibe a especificação do ponto flutuante com duas casas decimais e exibe em "km²".
     printf("PIB: %.2f bilhões de reais \n", pib); // Imprime a variável pib (PIB) com especificação do ponto flutuante com duas casas decimais e exibe "bilhões de reais", pulando a linha \n).
     printf("Número de Pontos Turísticos: %d \n", pontos); // Imprime a variável pontos (Pontos Turísticos) com o especificador de um número inteiro decimal, pulando uma linha \n).
+    printf("Densidade Populacional: %.2f hab/km²\n", densidade); //Imprime o resultado da densidade (Densidade Populacional) seguindo a divisão das variáveis populacao / area;
 
 
     printf("\nPróxima Carta: \n"); //Separação para os dados da próxima carta 2, são utilizados os mesmo atributos de especificadores da carta 1.)
