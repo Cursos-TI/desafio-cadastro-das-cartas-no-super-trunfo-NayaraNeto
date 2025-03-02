@@ -51,6 +51,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     printf("PIB: %.2f bilhões de reais \n", pib2);
     printf("Número de Pontos Turísticos: %d \n", pontos2);
     printf("Densidade Populacional: %.2f hab/km²\n", densidade2);
+    printf("PIB per Capita: %.2f reais\n", pibpercapita2);
 
     printf("\n***Fim do desafio Super Trunfo\n***""\n");
     
