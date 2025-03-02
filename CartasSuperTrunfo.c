@@ -40,6 +40,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     float pib2 = 192.07;
     int pontos2 = 30;
     float densidade2 = (float) populacao2 / area2;
+    float pibpercapita2 = (float) (pib2 * 1000000000) / populacao2;
 
     printf("\nCarta 2 \n");
     printf("Estado: %c \n", estado2);
