@@ -2,7 +2,7 @@
 int main(){// Aqui é a função principal, toda aplicação C começa pela função main.
     // Abaixo foi iniciado printf com o nome do desafio, e a sintaxe das variáveis da carta 1 e carta 2 do desafio supertrunfo.c, seguindo a impressão das variáveis.
 
-    printf ("\nDesafio Super Trunfo\n"); //Nome do Desafio, pulando linha no ínicio e no final para seguir aos dados das cartas.
+    printf ("\n***Desafio Super Trunfo***\n"); //Nome do Desafio, pulando linha no ínicio e no final para seguir aos dados das cartas.
 
     char carta[20] = "Carta 1"; // Aqui uma variável (carta 1), que pode armazenar letra ou símbolo ou nome utilizando até 20 caracteres.
     char estado = 'A';//Aqui uma variável de único caractere ('A'), podendo armazenar como uma letra ou símbolo. 
@@ -50,8 +50,9 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     printf("Área: %.2f km²\n", area2);
     printf("PIB: %.2f bilhões de reais \n", pib2);
     printf("Número de Pontos Turísticos: %d \n", pontos2);
+    printf("Densidade Populacional: %.2f hab/km²\n", densidade2);
 
-    printf("\nFim do desafio Super Trunfo\n""\n");
+    printf("\n***Fim do desafio Super Trunfo\n***""\n");
     
     return 0;
 
