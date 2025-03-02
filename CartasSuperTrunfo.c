@@ -12,6 +12,7 @@ int main(){// Aqui é a função principal, toda aplicação C começa pela fun�
     float area = 1521.20;// Aqui uma variável (area) que pode armazenar números com casas decimais.
     float pib = 828.98;// Aqui uma variável (pib) que pode armazenar números com casas decimais.
     int pontos = 36;//Aqui uma variável (pontos) que pode armazenar um número inteiro sem contar casa decimal.
+    float densidade =  populacao / area; //Aqui uma variável densidade, para calcular a divisão de duas variáveis;
 
 
     // Abaixo utilizamos a função printf para imprimir as informações que queremos na tela do programa. Ele pega as informações contidas nas variaveis e mostra na tela.
